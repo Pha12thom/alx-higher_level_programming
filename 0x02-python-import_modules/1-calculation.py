@@ -8,5 +8,5 @@ if __name__ == "__main__":
     B = sub(a, b)
     C = mul(a, b)
     D = div(a, b)
-    print(" {} + {} = {}\n {} - {} = {}".format(a, b, A, a, b, B))
-    print(" {} * {} = {}\n {} / {} = {}".format(a, b, C, a, b, D))
+    print("{} + {} = {}\n{} - {} = {}".format(a, b, A, a, b, B))
+    print("{} * {} = {}\n{} / {} = {}".format(a, b, C, a, b, D))
