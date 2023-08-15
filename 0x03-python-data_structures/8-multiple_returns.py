@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 def multiple_returns(sentence):
     sentence_1 = ""
-    if sentence is None:
-        sentence[0] = None
-    else:
-        for word in sentence:
+    for word in sentence:
+        if sentence is None:
+            return None
+        else:
             sentence_1 += word
-    return sentence_1
+    return (len(sentence_1), sentence_1[0])
