@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-letters = ""
+letters = "abcdefghijklmnopqrstuvwxyz"
 print(letters.upper())
