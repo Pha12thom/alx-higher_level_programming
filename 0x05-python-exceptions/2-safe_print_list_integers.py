@@ -5,8 +5,6 @@ def safe_print_integer(value):
             print("{:d}".format(value))
         else:
             return false
-    except:
+    except Exception as e:
+        print(f"{e}")
         exit()
-  
-
-
