@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 class Square:
-    def square(length):
+    def Square(length):
         length = q
-        square = q * q
-        return square
+        Square = q * q
+        return Square
