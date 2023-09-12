@@ -5,4 +5,4 @@ def read_file(filename=""):
     pening the filebusing with finction
     """
     with open(filename, "r", encoding="UTF-8") as f:
-        print(f, end="")
+        return f
