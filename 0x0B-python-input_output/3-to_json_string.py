@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-import json
 """changing texts to string format"""
+import json
 
 
 def to_json_string(my_obj):
