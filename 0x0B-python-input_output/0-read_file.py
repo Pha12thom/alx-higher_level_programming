@@ -2,5 +2,4 @@
 def read_file(filename=""):
     with open(filename, "r", encoding="UTF-8") as f:
         for line in f:
-            word = line
-            return (word, end="")
+            return (line, end="")
