@@ -1,2 +1,2 @@
-** PYTHON CLASSES **
-* Class instances and objects ** 
+**PYTHON CLASSES**
+*Class instances and objects*
